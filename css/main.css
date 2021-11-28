@@ -20,7 +20,7 @@ a {
 .box {
     position: absolute;
     left: 15%;
-    top: -32%;
+    top: -100%;
     width: 20%;
     height: 35%;
     transition: .5s all;
@@ -60,7 +60,7 @@ button {
     font-size: 40px;
     color: #fff;
     transform: translate(-50%, -50%);
-    width: 416px;
+    width: 470px;
 }
 
 
